@@ -1,7 +1,23 @@
 * {
     padding: 0;
+    margin: 0;
 }
 
-p {
+main {
+    padding: 80px;
+}
+
+img {
+    height: 660;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+#headline {
     color: #E1624F;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font: size 16px;
 }
